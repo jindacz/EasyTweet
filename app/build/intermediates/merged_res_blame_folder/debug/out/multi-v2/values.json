@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kurisuuu/Downloads/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/res/values/dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "89,147",
-                        "endColumns": "57,55",
-                        "endOffsets": "142,198"
-                    },
-                    "to": {
-                        "startLines": "601,602",
-                        "startColumns": "4,4",
-                        "startOffsets": "32666,32724",
-                        "endColumns": "57,55",
-                        "endOffsets": "32719,32775"
-                    }
-                },
                 {
                     "source": "/Users/kurisuuu/.gradle/caches/transforms-2/files-2.1/3dfbfe02bbb582980615633bd4eefc97/fragment-1.3.4/res/values/values.xml",
                     "from": {
@@ -150,6 +133,25 @@
                     }
                 },
                 {
+                    "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,357",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "319,512"
+                    },
+                    "to": {
+                        "startLines": "1206,1213",
+                        "startColumns": "4,4",
+                        "startOffsets": "78514,78821",
+                        "endLines": "1212,1215",
+                        "endColumns": "12,12",
+                        "endOffsets": "78816,78976"
+                    }
+                },
+                {
                     "source": "/Users/kurisuuu/.gradle/caches/transforms-2/files-2.1/5511f57e160c7e247f5d805a7544c561/jetified-viewpager2-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -183,6 +185,23 @@
                         "startOffsets": "57882,57922,58927,59109,59164,60660,60714,60766,60815,60876",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "57917,57964,58965,59159,59206,60709,60761,60810,60871,60921"
+                    }
+                },
+                {
+                    "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "601,602",
+                        "startColumns": "4,4",
+                        "startOffsets": "32666,32724",
+                        "endColumns": "57,55",
+                        "endOffsets": "32719,32775"
                     }
                 },
                 {
@@ -260,25 +279,6 @@
                     }
                 },
                 {
-                    "source": "/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2,11",
-                        "startColumns": "4,4",
-                        "startOffsets": "17,357",
-                        "endLines": "8,13",
-                        "endColumns": "12,12",
-                        "endOffsets": "319,512"
-                    },
-                    "to": {
-                        "startLines": "1206,1213",
-                        "startColumns": "4,4",
-                        "startOffsets": "78514,78821",
-                        "endLines": "1212,1215",
-                        "endColumns": "12,12",
-                        "endOffsets": "78816,78976"
-                    }
-                },
-                {
                     "source": "/Users/kurisuuu/.gradle/caches/transforms-2/files-2.1/1f6004bd08e328db94a4df3854ac2f3d/jetified-glide-4.11.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -293,6 +293,23 @@
                         "startOffsets": "57969",
                         "endColumns": "57",
                         "endOffsets": "58022"
+                    }
+                },
+                {
+                    "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,6,5,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,200,152,105",
+                        "endColumns": "48,46,47,46",
+                        "endOffsets": "100,242,195,147"
+                    },
+                    "to": {
+                        "startLines": "1109,1124,1125,1127",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "65191,66959,67006,67113",
+                        "endColumns": "48,46,47,46",
+                        "endOffsets": "65235,67001,67049,67155"
                     }
                 },
                 {
@@ -312,23 +329,6 @@
                         "endLines": "5207,5214,5225,7673,7678",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "343530,343915,344512,494478,494748"
-                    }
-                },
-                {
-                    "source": "/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "3,6,5,4",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "56,200,152,105",
-                        "endColumns": "48,46,47,46",
-                        "endOffsets": "100,242,195,147"
-                    },
-                    "to": {
-                        "startLines": "1109,1124,1125,1127",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "65191,66959,67006,67113",
-                        "endColumns": "48,46,47,46",
-                        "endOffsets": "65235,67001,67049,67155"
                     }
                 }
             ]

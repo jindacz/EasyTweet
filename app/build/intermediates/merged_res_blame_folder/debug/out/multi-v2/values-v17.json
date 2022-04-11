@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kurisuuu/Downloads/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
                     "source": "/Users/kurisuuu/.gradle/caches/transforms-2/files-2.1/77c7b97873973e149b09819f46c0a153/appcompat-1.3.0/res/values-v17/values-v17.xml",
