@@ -12,6 +12,8 @@ com/codepath/apps/restclienttemplate/models/User.java
  com.codepath.apps.restclienttemplate.models.User
 com/codepath/apps/restclienttemplate/MyDatabase.java
  com.codepath.apps.restclienttemplate.MyDatabase
+com/codepath/apps/restclienttemplate/EndlessRecyclerViewScrollListener.java
+ com.codepath.apps.restclienttemplate.EndlessRecyclerViewScrollListener
 com/codepath/apps/restclienttemplate/models/SampleModelDao.java
  com.codepath.apps.restclienttemplate.models.SampleModelDao
 com/codepath/apps/restclienttemplate/models/Tweet.java
@@ -19,6 +21,9 @@ com/codepath/apps/restclienttemplate/models/Tweet.java
 com/codepath/apps/restclienttemplate/TimelineActivity.java
  com.codepath.apps.restclienttemplate.TimelineActivity
  com.codepath.apps.restclienttemplate.TimelineActivity$1
+ com.codepath.apps.restclienttemplate.TimelineActivity$2
+ com.codepath.apps.restclienttemplate.TimelineActivity$3
+ com.codepath.apps.restclienttemplate.TimelineActivity$4
 com/codepath/apps/restclienttemplate/TwitterClient.java
  com.codepath.apps.restclienttemplate.TwitterClient
 com/codepath/apps/restclienttemplate/TwitterApp.java

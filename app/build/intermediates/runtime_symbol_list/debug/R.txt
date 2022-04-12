@@ -810,6 +810,7 @@ int attr suffixText 0x7f0302ee
 int attr suffixTextAppearance 0x7f0302ef
 int attr suffixTextColor 0x7f0302f0
 int attr suggestionRowLayout 0x7f0302f1
+int attr swipeRefreshLayoutProgressSpinnerBackgroundColor 0x7f03038a
 int attr switchMinWidth 0x7f0302f2
 int attr switchPadding 0x7f0302f3
 int attr switchStyle 0x7f0302f4
@@ -2092,6 +2093,7 @@ int id stop 0x7f080164
 int id stretch 0x7f080165
 int id submenuarrow 0x7f080166
 int id submit_area 0x7f080167
+int id swipeContainer 0x7f0801ac
 int id tabMode 0x7f080168
 int id tag_accessibility_actions 0x7f080169
 int id tag_accessibility_clickable_spans 0x7f08016a
@@ -4543,6 +4545,8 @@ int[] styleable StateListDrawableItem { 0x01010199 }
 int styleable StateListDrawableItem_android_drawable 0
 int[] styleable StateSet { 0x7f030107 }
 int styleable StateSet_defaultState 0
+int[] styleable SwipeRefreshLayout { 0x7f03038a }
+int styleable SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor 0
 int[] styleable SwitchCompat { 0x01010124, 0x01010125, 0x01010142, 0x7f0302c4, 0x7f0302d3, 0x7f0302f2, 0x7f0302f3, 0x7f0302f5, 0x7f03033b, 0x7f03033c, 0x7f03033d, 0x7f03035e, 0x7f030365, 0x7f030366 }
 int styleable SwitchCompat_android_textOn 0
 int styleable SwitchCompat_android_textOff 1

@@ -6,76 +6,76 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml
+8-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml
+9-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:7:5-67
-11-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:7:22-64
+11-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:7:5-67
+11-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:7:22-64
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:8:5-81
-12-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:8:22-78
+12-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:8:5-81
+12-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:8:22-78
 13
 14    <application
-14-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:10:5-39:19
+14-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:10:5-39:19
 15        android:name="com.codepath.apps.restclienttemplate.TwitterApp"
-15-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:11:9-35
+15-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:11:9-35
 16        android:allowBackup="true"
-16-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:12:9-35
+16-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:12:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 17-->[androidx.core:core:1.5.0] /Users/kurisuuu/.gradle/caches/transforms-2/files-2.1/cc5e9dcdc56dc39042f72c501235e83f/core-1.5.0/AndroidManifest.xml:24:18-86
 18        android:debuggable="true"
 19        android:icon="@drawable/ic_launcher"
-19-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:13:9-45
+19-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:13:9-45
 20        android:label="@string/app_name"
-20-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:14:9-41
+20-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:14:9-41
 21        android:testOnly="true"
 22        android:theme="@style/AppTheme" >
-22-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:15:9-40
+22-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:15:9-40
 23        <activity
-23-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:16:9-18:40
+23-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:16:9-18:40
 24            android:name="com.codepath.apps.restclienttemplate.TimelineActivity"
-24-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:17:13-45
+24-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:17:13-45
 25            android:exported="false" />
-25-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:18:13-37
+25-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:18:13-37
 26        <activity
-26-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:19:9-38:20
+26-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:19:9-38:20
 27            android:name="com.codepath.apps.restclienttemplate.LoginActivity"
-27-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:20:13-42
+27-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:20:13-42
 28            android:label="@string/app_name"
-28-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:21:13-45
+28-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:21:13-45
 29            android:theme="@style/AppTheme" >
-29-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:22:13-44
+29-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:22:13-44
 30            <intent-filter>
-30-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:23:13-27:29
+30-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:23:13-27:29
 31                <action android:name="android.intent.action.MAIN" />
-31-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:24:17-69
-31-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:24:25-66
+31-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:24:17-69
+31-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:24:25-66
 32
 33                <category android:name="android.intent.category.LAUNCHER" />
-33-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:26:17-77
-33-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:26:27-74
+33-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:26:17-77
+33-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:26:27-74
 34            </intent-filter>
 35            <intent-filter>
-35-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:28:13-37:29
+35-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:28:13-37:29
 36                <action android:name="android.intent.action.VIEW" />
-36-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:29:17-69
-36-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:29:25-66
+36-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:29:17-69
+36-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:29:25-66
 37
 38                <category android:name="android.intent.category.DEFAULT" />
-38-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:31:17-76
-38-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:31:27-73
+38-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:31:17-76
+38-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:31:27-73
 39                <category android:name="android.intent.category.BROWSABLE" />
-39-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:32:17-78
-39-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:32:27-75
+39-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:32:17-78
+39-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:32:27-75
 40
 41                <data
-41-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:34:17-36:62
+41-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:34:17-36:62
 42                    android:host="@string/intent_host"
-42-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:35:21-55
+42-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:35:21-55
 43                    android:scheme="@string/intent_scheme" />
-43-->/Users/kurisuuu/Downloads/SimpleTweet/app/src/main/AndroidManifest.xml:36:21-59
+43-->/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/AndroidManifest.xml:36:21-59
 44            </intent-filter>
 45        </activity>
 46
