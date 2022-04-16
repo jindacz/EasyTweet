@@ -28,6 +28,10 @@
         "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/menu/menu_main.xml"
+    },
+    {
         "merged": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/build/intermediates/res/merged/debug/layout_activity_timeline.xml.flat",
         "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/layout/activity_timeline.xml"
     }

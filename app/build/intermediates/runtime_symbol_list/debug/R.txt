@@ -1843,6 +1843,7 @@ int id clip_horizontal 0x7f08006a
 int id clip_vertical 0x7f08006b
 int id clockwise 0x7f08006c
 int id collapseActionView 0x7f08006d
+int id compose 0x7f0801ad
 int id confirm_button 0x7f08006e
 int id container 0x7f08006f
 int id content 0x7f080070
@@ -2317,6 +2318,7 @@ int layout text_view_with_line_height_from_style 0x7f0b0070
 int layout text_view_with_theme_line_height 0x7f0b0071
 int layout text_view_without_line_height 0x7f0b0072
 int menu login 0x7f0c0000
+int menu menu_main 0x7f0c0001
 int plurals mtrl_badge_content_description 0x7f0d0000
 int string abc_action_bar_home_description 0x7f0e0000
 int string abc_action_bar_up_description 0x7f0e0001
