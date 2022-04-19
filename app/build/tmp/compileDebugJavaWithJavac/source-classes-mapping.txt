@@ -1,3 +1,12 @@
+com/codepath/apps/restclienttemplate/models/User.java
+ com.codepath.apps.restclienttemplate.models.User
+com/codepath/apps/restclienttemplate/ComposeActivity.java
+ com.codepath.apps.restclienttemplate.ComposeActivity
+ com.codepath.apps.restclienttemplate.ComposeActivity$1
+com/codepath/apps/restclienttemplate/TwitterClient.java
+ com.codepath.apps.restclienttemplate.TwitterClient
+com/codepath/apps/restclienttemplate/TwitterApp.java
+ com.codepath.apps.restclienttemplate.TwitterApp
 com/codepath/apps/restclienttemplate/LoginActivity.java
  com.codepath.apps.restclienttemplate.LoginActivity
  com.codepath.apps.restclienttemplate.LoginActivity$1
@@ -8,8 +17,6 @@ com/codepath/apps/restclienttemplate/BuildConfig.java
 com/codepath/apps/restclienttemplate/TweetsAdapter.java
  com.codepath.apps.restclienttemplate.TweetsAdapter
  com.codepath.apps.restclienttemplate.TweetsAdapter$ViewHolder
-com/codepath/apps/restclienttemplate/models/User.java
- com.codepath.apps.restclienttemplate.models.User
 com/codepath/apps/restclienttemplate/MyDatabase.java
  com.codepath.apps.restclienttemplate.MyDatabase
 com/codepath/apps/restclienttemplate/EndlessRecyclerViewScrollListener.java
@@ -24,7 +31,3 @@ com/codepath/apps/restclienttemplate/TimelineActivity.java
  com.codepath.apps.restclienttemplate.TimelineActivity$2
  com.codepath.apps.restclienttemplate.TimelineActivity$3
  com.codepath.apps.restclienttemplate.TimelineActivity$4
-com/codepath/apps/restclienttemplate/TwitterClient.java
- com.codepath.apps.restclienttemplate.TwitterClient
-com/codepath/apps/restclienttemplate/TwitterApp.java
- com.codepath.apps.restclienttemplate.TwitterApp

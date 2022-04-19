@@ -20,6 +20,10 @@
         "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/layout/activity_login.xml"
     },
     {
+        "merged": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/build/intermediates/res/merged/debug/layout_activity_compose.xml.flat",
+        "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/layout/activity_compose.xml"
+    },
+    {
         "merged": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
         "source": "/Users/kurisuuu/Documents/GitHub/EasyTweet/app/src/main/res/menu/login.xml"
     },
